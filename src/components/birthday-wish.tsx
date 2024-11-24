@@ -82,7 +82,7 @@ export default function BirthdayWish() {
       >
         <Card className="mx-auto overflow-hidden transition-all duration-300 ease-in-out hover:shadow-xl border-4 border-purple-800">
           <CardHeader className="text-center">
-            <CardTitle className="text-4xl font-bold text-purple-700 text-center mx-auto">🎉Happy Birthday🎉</CardTitle>
+            <CardTitle className="text-5xl font-bold text-purple-700 text-center mx-auto">🎉Happy Birthday🎉</CardTitle>
             <CardDescription className="text-2xl font-semibold text-pink-600">Anum Kamal</CardDescription>
             <p className="text-lg text-pink-500">October 22nd</p>
           </CardHeader>
